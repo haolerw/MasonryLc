@@ -7,7 +7,7 @@ Masonry supports iOS and Mac OS X.
 
 For examples take a look at the **Masonry iOS Examples** project in the Masonry workspace. You will need to run `pod install` after downloading.
 
-## What's wrong with NSLayoutConstraints?deadtest-phl-api!fyinformation*cczhaoci
+## What's wrong with NSLayoutConstraints?1111111
 
 Under the hood Auto Layout is a powerful and flexible way of organising and laying out your views. However creating constraints from code is verbose and not very descriptive.
 Imagine a simple example in which you want to have a view fill its superview but inset by 10 pixels on every side
